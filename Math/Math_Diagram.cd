@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Azul::Mat4">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Azul::Mat4::Hint" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>include\Mat4.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CIAAOAAAAQCBAAEAGAQAwwJAAkEgEAAAgAAwCAAMQAA=</HashCode>
+      <FileName>include\Mat4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::Scale" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAYAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>include\Scale.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::Trans" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAQAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>include\Trans.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::Rot" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAEAAAAAAAAQAAAAAwAADAgAAUAAgAAAAAAA=</HashCode>
+      <FileName>include\Rot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::Mat3">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CIAAIACAAACBBAAAAAQAwwBAAgEgEAAAgAAwAAAEAAA=</HashCode>
+      <FileName>include\Mat3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::Vec4" Collapsed="true">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAABAAAAAASIAQAAAAEAEAAAAAhgAwAEAAk=</HashCode>
+      <FileName>include\Vec4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::Vec3" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIEAAAAABAAAAAASIAQAAAAEAEIAAAAFgAQEEAAE=</HashCode>
+      <FileName>include\Vec3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Azul::Mat4Proxy">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAEAAAAAAAAIAAABgAAAAAAA=</HashCode>
+      <FileName>include\Mat4Proxy.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Azul::Vec3Proxy">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAUAAgAAAAAAAAABgAQAAAEA=</HashCode>
+      <FileName>include\Vec3Proxy.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
